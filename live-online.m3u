@@ -1,187 +1,283 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #⏰更新时间2024/06/01
 
+#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS 新聞台.png" group-title="🖥4GTV新聞",TVBS 新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv072
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="🖥4GTV新聞",中天新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv009
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="🖥4GTV新聞",寰宇新聞台
+http://op.880824.xyz:5000/litv/litv-longturn14
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="🖥4GTV新聞",三立新聞
+http://op.880824.xyz:5000/4gtv/229
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🖥4GTV新聞",東森新聞
+http://op.880824.xyz:5000/litv/4gtv-4gtv152
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="🖥4GTV新聞",鏡電視新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv075
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="🖥4GTV新聞",寰宇新聞台灣台
+http://op.880824.xyz:5000/litv/litv-longturn15
+#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="🖥4GTV新聞",非凡新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv010
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="🖥4GTV新聞",民視新聞台
+http://op.880824.xyz:5000/litv/litv-ftv13
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="🖥4GTV新聞",中視新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv074
+#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="🖥4GTV新聞",台視新聞台
+http://op.880824.xyz:5000/litv/4gtv-4gtv051
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="🖥4GTV新聞",華視新聞
+http://op.880824.xyz:5000/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="🖥4GTV新聞",靖天資訊台
+http://op.880824.xyz:5000/litv/4gtv-4gtv065
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="🖥4GTV新聞",寰宇財經台
+http://op.880824.xyz:5000/litv/litv-longturn23
+#EXTINF:-1 tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="🖥4GTV新聞",台視財經台
+http://op.880824.xyz:5000/litv/4gtv-4gtv056
+#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="🖥4GTV新聞",東森財經新聞
+http://op.880824.xyz:5000/litv/4gtv-4gtv153
+#EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="🖥4GTV新聞",非凡商業台
+http://op.880824.xyz:5000/litv/4gtv-4gtv048
+#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC Asia 財經台.png" group-title="🖥4GTV新聞",CNBC Asia 財經台
+http://op.880824.xyz:5000/4gtv/235
+#EXTINF:-1 tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA 美國之音.png" group-title="🖥4GTV新聞",VOA 美國之音
+http://op.880824.xyz:5000/litv/litv-ftv03
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW德國之聲.png" group-title="🖥4GTV新聞",DW德國之聲
+http://op.880824.xyz:5000/4gtv/226
+#EXTINF:-1 tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN 全球財經台.png" group-title="🖥4GTV新聞",SBN 全球財經台
+http://op.880824.xyz:5000/4gtv/224
+#EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="🖥4GTV新聞",半島國際新聞台
+http://op.880824.xyz:5000/litv/litv-ftv10
+#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://assets.livednow.com/logo/第1商業台.png" group-title="🖥4GTV新聞",第1商業台
+http://op.880824.xyz:5000/litv/4gtv-4gtv104
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="🖥4GTV新聞",民視
+http://op.880824.xyz:5000/litv/4gtv-4gtv155
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="🖥4GTV新聞",民視第一台
+http://op.880824.xyz:5000/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="🖥4GTV新聞",民視台灣台
+http://op.880824.xyz:5000/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="🖥4GTV新聞",中視
+http://op.880824.xyz:5000/litv/4gtv-4gtv040
+#EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="🖥4GTV新聞",中視菁采台
+http://op.880824.xyz:5000/litv/4gtv-4gtv064
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="🖥4GTV新聞",中天亞洲台
+http://op.880824.xyz:5000/litv/4gtv-4gtv109
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="🖥4GTV新聞",華視
+http://op.880824.xyz:5000/litv/4gtv-4gtv041
+#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="🖥4GTV新聞",靖天綜合台
+http://op.880824.xyz:5000/litv/4gtv-4gtv046
+#EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="🖥4GTV新聞",靖天國際台
+http://op.880824.xyz:5000/litv/4gtv-4gtv063
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="🖥4GTV新聞",靖天日本台
+http://op.880824.xyz:5000/litv/4gtv-4gtv047
+#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="🖥4GTV新聞",三立綜合台
+http://op.880824.xyz:5000/4gtv/169
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="🖥4GTV新聞",台視
+http://op.880824.xyz:5000/litv/4gtv-4gtv066
+#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang TV.png" group-title="🖥4GTV新聞",Arirang TV
+http://op.880824.xyz:5000/litv/4gtv-4gtv079
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/Bloomberg TV.png" group-title="🖥4GTV新聞",Bloomberg TV
+http://op.880824.xyz:5000/4gtv/283
+#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="🎞4GTV影視",民視影劇台
+http://op.880824.xyz:5000/litv/litv-ftv09
+#EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="🎞4GTV影視",中視經典台
+http://op.880824.xyz:5000/litv/4gtv-4gtv080
+#EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="🎞4GTV影視",靖天戲劇台
+http://op.880824.xyz:5000/litv/4gtv-4gtv058
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="🎞4GTV影視",靖天電影台
+http://op.880824.xyz:5000/litv/4gtv-4gtv061
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="🎞4GTV影視",龍華戲劇台
+http://op.880824.xyz:5000/litv/litv-longturn18
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="🎞4GTV影視",龍華經典台
+http://op.880824.xyz:5000/litv/litv-longturn21
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="🎞4GTV影視",龍華電影台
+http://op.880824.xyz:5000/litv/litv-longturn03
+#EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="🎞4GTV影視",靖洋戲劇台
+http://op.880824.xyz:5000/litv/4gtv-4gtv045
+#EXTINF:-1 tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS 台劇台.png" group-title="🎞4GTV影視",TVBS 台劇台
+http://op.880824.xyz:5000/4gtv/285
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="🎞4GTV影視",影迷數位紀實台
+http://op.880824.xyz:5000/4gtv/212
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="🎞4GTV影視",影迷數位電影台
+http://op.880824.xyz:5000/litv/4gtv-4gtv011
+#EXTINF:-1 tvg-name="AMC 最愛電影" tvg-logo="https://assets.livednow.com/logo/AMC 最愛電影.png" group-title="🎞4GTV影視",AMC 最愛電影
+http://op.880824.xyz:5000/litv/4gtv-4gtv017
+#EXTINF:-1 tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay 電影台.png" group-title="🎞4GTV影視",CatchPlay 電影台
+http://op.880824.xyz:5000/litv/4gtv-4gtv076
+#EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My Cinema Europe HD 我的歐洲電影.png" group-title="🎞4GTV影視",My Cinema Europe HD 我的歐洲電影
+http://op.880824.xyz:5000/4gtv/176
+#EXTINF:-1 tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="🎞4GTV影視",公視戲劇台
+http://op.880824.xyz:5000/litv/4gtv-4gtv042
+#EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="🎞4GTV影視",采昌影劇台
+http://op.880824.xyz:5000/litv/4gtv-4gtv049
+#EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="🎞4GTV影視",台灣戲劇台
+http://op.880824.xyz:5000/litv/litv-longturn22
+#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看 1台.png" group-title="🎞4GTV影視",戲劇免費看 1台
+http://op.880824.xyz:5000/4gtv/270
+#EXTINF:-1 tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看 2台.png" group-title="🎞4GTV影視",戲劇免費看 2台
+http://op.880824.xyz:5000/4gtv/244
+#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="🎞4GTV影視",經典電影台
+http://op.880824.xyz:5000/4gtv/201
+#EXTINF:-1 tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看 2台.png" group-title="🎞4GTV影視",電影免費看 2台
+http://op.880824.xyz:5000/4gtv/245
+#EXTINF:-1 tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台 CMusic.png" group-title="🎞4GTV影視",電影原聲台 CMusic
+http://op.880824.xyz:5000/4gtv/218
+#EXTINF:-1 tvg-name="花系列 經典劇場" tvg-logo="https://assets.livednow.com/logo/花系列 經典劇場.png" group-title="🎞4GTV影視",花系列 經典劇場
+http://op.880824.xyz:5000/4gtv/279
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="🎞4GTV影視",CinemaWorld
+http://op.880824.xyz:5000/4gtv/225
+#EXTINF:-1 tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS 頻道.png" group-title="🎞4GTV影視",HITS 頻道
+http://op.880824.xyz:5000/4gtv/186
+#EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock Action.png" group-title="🎞4GTV影視",Rock Action
+http://op.880824.xyz:5000/4gtv/180
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock Entertainment.png" group-title="🎞4GTV影視",Rock Entertainment
+http://op.880824.xyz:5000/4gtv/275
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="🎞4GTV影視",金光布袋戲
+http://op.880824.xyz:5000/4gtv/236
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="🏳️‍🌈4GTV生活",民視旅遊台
+http://op.880824.xyz:5000/litv/litv-ftv07
+#EXTINF:-1 tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA 生活旅遊.png" group-title="🏳️‍🌈4GTV生活",ELTA 生活旅遊
+http://op.880824.xyz:5000/4gtv/237
+#EXTINF:-1 tvg-name="ELTA生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="🏳️‍🌈4GTV生活",ELTA生活英語
+http://op.880824.xyz:5000/litv/litv-longturn20
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="🏳️‍🌈4GTV生活",亞洲旅遊台
+http://op.880824.xyz:5000/litv/litv-longturn17
+#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global Trekker.png" group-title="🏳️‍🌈4GTV生活",Global Trekker
+http://op.880824.xyz:5000/4gtv/252
+#EXTINF:-1 tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter 環遊旅行家.png" group-title="🏳️‍🌈4GTV生活",Globetrotter 環遊旅行家
+http://op.880824.xyz:5000/litv/4gtv-4gtv016
+#EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE TV.png" group-title="🏳️‍🌈4GTV生活",LUXE TV
+http://op.880824.xyz:5000/4gtv/175
+#EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://assets.livednow.com/logo/Pet Club TV.png" group-title="🏳️‍🌈4GTV生活",Pet Club TV
+http://op.880824.xyz:5000/4gtv/182
+#EXTINF:-1 tvg-name="TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/TV5MONDE Style.png" group-title="🏳️‍🌈4GTV生活",TV5MONDE Style
+http://op.880824.xyz:5000/4gtv/178
+#EXTINF:-1 tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷 TV.png" group-title="🏳️‍🌈4GTV生活",車迷 TV
+http://op.880824.xyz:5000/4gtv/160
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love Nature.png" group-title="🏳️‍🌈4GTV生活",Love Nature
+http://op.880824.xyz:5000/4gtv/139
+#EXTINF:-1 tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun 探索娛樂台.png" group-title="🏳️‍🌈4GTV生活",Fun 探索娛樂台
+http://op.880824.xyz:5000/4gtv/274
+#EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="🏳️‍🌈4GTV生活",幸福空間居家台
+http://op.880824.xyz:5000/4gtv/168
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="🏳️‍🌈4GTV生活",TVBS
+http://op.880824.xyz:5000/litv/4gtv-4gtv073
+#EXTINF:-1 tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History 歷史頻道.png" group-title="🏳️‍🌈4GTV生活",History 歷史頻道
+http://op.880824.xyz:5000/4gtv/214
+#EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI 罪案偵查頻道.png" group-title="🏳️‍🌈4GTV生活",CI 罪案偵查頻道
+http://op.880824.xyz:5000/4gtv/215
+#EXTINF:-1 tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart 知識台.png" group-title="🏳️‍🌈4GTV生活",Smart 知識台
+http://op.880824.xyz:5000/litv/litv-longturn19
+#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="🏳️‍🌈4GTV生活",視納華仁紀實頻道
+http://op.880824.xyz:5000/litv/4gtv-4gtv013
+#EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="🏳️‍🌈4GTV生活",原住民族電視台
+http://op.880824.xyz:5000/4gtv/273
+#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="🏳️‍🌈4GTV生活",客家電視台
+http://op.880824.xyz:5000/litv/4gtv-4gtv043
+#EXTINF:-1 tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力 Rollor.png" group-title="🏳️‍🌈4GTV生活",滾動力 Rollor
+http://op.880824.xyz:5000/4gtv/249
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="🏳️‍🌈4GTV生活",好消息
+http://op.880824.xyz:5000/litv/litv-ftv16
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="🏳️‍🌈4GTV生活",好消息2台
+http://op.880824.xyz:5000/litv/litv-ftv17
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="🏳️‍🌈4GTV生活",大愛電視
+http://op.880824.xyz:5000/4gtv/209
+#EXTINF:-1 tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視2.png" group-title="🏳️‍🌈4GTV生活",大愛電視2
+http://op.880824.xyz:5000/4gtv/230
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="🏳️‍🌈4GTV生活",人間衛視
+http://op.880824.xyz:5000/4gtv/210
+#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="🏳️‍🌈4GTV生活",國會頻道1
+http://op.880824.xyz:5000/litv/4gtv-4gtv084
+#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="🏳️‍🌈4GTV生活",國會頻道2
+http://op.880824.xyz:5000/litv/4gtv-4gtv085
+#EXTINF:-1 tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV Live HD 音樂頻道.png" group-title="🎵4GTV綜藝",MTV Live HD 音樂頻道
+http://op.880824.xyz:5000/4gtv/213
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="🎵4GTV綜藝",民視綜藝台
+http://op.880824.xyz:5000/litv/4gtv-4gtv004
+#EXTINF:-1 tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="🎵4GTV綜藝",靖天育樂台
+http://op.880824.xyz:5000/litv/4gtv-4gtv062
+#EXTINF:-1 tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="🎵4GTV綜藝",靖天歡樂台
+http://op.880824.xyz:5000/litv/4gtv-4gtv054
+#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="🎵4GTV綜藝",龍華偶像台
+http://op.880824.xyz:5000/litv/litv-longturn12
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="🎵4GTV綜藝",龍華日韓台
+http://op.880824.xyz:5000/litv/litv-longturn11
+#EXTINF:-1 tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS 綜藝台.png" group-title="🎵4GTV綜藝",TVBS 綜藝台
+http://op.880824.xyz:5000/4gtv/284
+#EXTINF:-1 tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS 歡樂台.png" group-title="🎵4GTV綜藝",TVBS 歡樂台
+http://op.880824.xyz:5000/litv/4gtv-4gtv068
+#EXTINF:-1 tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS 精采台.png" group-title="🎵4GTV綜藝",TVBS 精采台
+http://op.880824.xyz:5000/litv/4gtv-4gtv067
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="🎵4GTV綜藝",八大精彩台
+http://op.880824.xyz:5000/litv/4gtv-4gtv034
+#EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="🎵4GTV綜藝",八大綜藝台
+http://op.880824.xyz:5000/litv/4gtv-4gtv039
+#EXTINF:-1 tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA 娛樂台.png" group-title="🎵4GTV綜藝",ELTA 娛樂台
+http://op.880824.xyz:5000/litv/4gtv-4gtv070
+#EXTINF:-1 tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica 古典樂.png" group-title="🎵4GTV綜藝",Classica 古典樂
+http://op.880824.xyz:5000/litv/4gtv-4gtv059
+#EXTINF:-1 tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime 娛樂頻道.png" group-title="🎵4GTV綜藝",Lifetime 娛樂頻道
+http://op.880824.xyz:5000/4gtv/217
+#EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo Live.png" group-title="🎵4GTV綜藝",Mezzo Live
+http://op.880824.xyz:5000/litv/4gtv-4gtv083
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="🎵4GTV綜藝",豬哥亮歌廳秀
+http://op.880824.xyz:5000/litv/4gtv-4gtv006
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace Urban.png" group-title="🎵4GTV綜藝",Trace Urban
+http://op.880824.xyz:5000/litv/4gtv-4gtv082
+#EXTINF:-1 tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="👼4GTV少兒",靖天映畫台
+http://op.880824.xyz:5000/litv/4gtv-4gtv055
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="👼4GTV少兒",靖天卡通台
+http://op.880824.xyz:5000/litv/4gtv-4gtv044
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="👼4GTV少兒",龍華卡通台
+http://op.880824.xyz:5000/litv/litv-longturn01
+#EXTINF:-1 tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通 Nice Bingo.png" group-title="👼4GTV少兒",靖洋卡通 Nice Bingo
+http://op.880824.xyz:5000/litv/4gtv-4gtv057
+#EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks 夢工廠動畫.png" group-title="👼4GTV少兒",DreamWorks 夢工廠動畫
+http://op.880824.xyz:5000/4gtv/282
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="👼4GTV少兒",Nickelodeon
+http://op.880824.xyz:5000/4gtv/185
+#EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://assets.livednow.com/logo/Nick Jr. 兒童頻道.png" group-title="👼4GTV少兒",Nick Jr. 兒童頻道
+http://op.880824.xyz:5000/4gtv/219
+#EXTINF:-1 tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun 動漫台.png" group-title="👼4GTV少兒",i-Fun 動漫台
+http://op.880824.xyz:5000/litv/litv-ftv15
+#EXTINF:-1 tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="👼4GTV少兒",兒童卡通台
+http://op.880824.xyz:5000/4gtv/269
+#EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="👼4GTV少兒",精選動漫台
+http://op.880824.xyz:5000/4gtv/204
+#EXTINF:-1 tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="👼4GTV少兒",經典卡通台
+http://op.880824.xyz:5000/4gtv/202
+#EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="👼4GTV少兒",達文西頻道
+http://op.880824.xyz:5000/litv/4gtv-4gtv018
+#EXTINF:-1 tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="👼4GTV少兒",超人力霸王整套看
+http://op.880824.xyz:5000/4gtv/278
+#EXTINF:-1 tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO 親子台.png" group-title="👼4GTV少兒",MOMO 親子台
+http://op.880824.xyz:5000/4gtv/231
+#EXTINF:-1 tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC 互動英語台.png" group-title="👼4GTV少兒",LiveABC 互動英語台
+http://op.880824.xyz:5000/4gtv/188
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="⚽️4GTV體育",博斯運動一台
+http://op.880824.xyz:5000/litv/litv-longturn07
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="⚽️4GTV體育",博斯運動二台
+http://op.880824.xyz:5000/litv/litv-longturn08
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="⚽️4GTV體育",博斯無限台
+http://op.880824.xyz:5000/litv/litv-longturn10
+#EXTINF:-1 tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="⚽️4GTV體育",博斯無限二台
+http://op.880824.xyz:5000/litv/litv-longturn13
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="⚽️4GTV體育",博斯網球台
+http://op.880824.xyz:5000/litv/litv-longturn09
+#EXTINF:-1 tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="⚽️4GTV體育",博斯高球台
+http://op.880824.xyz:5000/litv/litv-longturn05
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="⚽️4GTV體育",博斯高球二台
+http://op.880824.xyz:5000/litv/litv-longturn06
+#EXTINF:-1 tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="⚽️4GTV體育",博斯魅力台
+http://op.880824.xyz:5000/litv/litv-longturn04
+#EXTINF:-1 tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX Esports TV.png" group-title="⚽️4GTV體育",GINX Esports TV
+http://op.880824.xyz:5000/litv/4gtv-4gtv053
+#EXTINF:-1 tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="⚽️4GTV體育",TechStorm
+http://op.880824.xyz:5000/4gtv/181
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="⚽️4GTV體育",時尚運動X
+http://op.880824.xyz:5000/4gtv/277
+#EXTINF:-1 tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="⚽️4GTV體育",智林體育台
+http://op.880824.xyz:5000/litv/4gtv-4gtv101
+#EXTINF:-1 tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="⚽️4GTV體育",TraceSports
+http://op.880824.xyz:5000/litv/4gtv-4gtv077
 
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="🖥新闻频道",TVBS新闻台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv072
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🖥新闻频道",中天新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.com/tv/TVBS HD.png" group-title="🖥新闻频道",TVBS HD
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv073
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/中天亚洲台.png" group-title="🖥新闻频道",中天亚洲台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv109
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🖥新闻频道",台视新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv051
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="🖥新闻频道",华视新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv052
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="🖥新闻频道",台视财经
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv056
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🖥新闻频道",中视新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv074
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="🖥新闻频道",非凡新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv010
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/镜新闻.png" group-title="🖥新闻频道",镜新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv075
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🖥新闻频道",东森新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv152
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="🖥新闻频道",东森财经新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv153
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="🖥新闻频道",半岛新闻
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv10
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="🖥新闻频道",民视新闻台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv13
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="🖥新闻频道",民视台湾台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv001
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="🖥新闻频道",寰宇新闻台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn14
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="🖥新闻频道",寰宇新闻台湾台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn15
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🖥新闻频道",台视
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🖥新闻频道",民视
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🖥新闻频道",民视
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv155
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🖥新闻频道",中视
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🖥新闻频道",华视
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv041
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="🖥新闻频道",民视台湾台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv156
-#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://live.fanmingming.com/tv/影迷數位電影台.png" group-title="🎞影视频道",影迷數位電影台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv011
-#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="🎞影视频道",AMC电影台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv017
-#EXTINF:-1 tvg-name="CATCHPLAY电影台" tvg-logo="https://live.fanmingming.com/tv/CATCHPLAY电影台.png" group-title="🎞影视频道",CATCHPLAY电影台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv076
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="🎞影视频道",靖天电影台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv061
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="🎞影视频道",龙华电影
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn03
-#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="https://live.fanmingming.com/tv/采昌影剧.png" group-title="🎞影视频道",采昌影剧
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv049
-#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://live.fanmingming.com/tv/民视影剧.png" group-title="🎞影视频道",民视影剧
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv09
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="🎞影视频道",龙华经典
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn21
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://live.fanmingming.com/tv/中视经典.png" group-title="🎞影视频道",中视经典
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv080
-#EXTINF:-1 tvg-name="台湾戏剧台" tvg-logo="https://live.fanmingming.com/tv/台湾戏剧台.png" group-title="🎞影视频道",台湾戏剧台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn22
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台.png" group-title="🎞影视频道",靖洋戏剧台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv045
-#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧台.png" group-title="🎞影视频道",靖天戏剧台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv058
-#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.com/tv/公视戏剧.png" group-title="🎞影视频道",公视戏剧
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv042
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="🎞影视频道",龙华戏剧
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn18
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.com/tv/智林体育台.png" group-title="⚽️体育频道",智林体育台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv101
-#EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://live.fanmingming.com/tv/时尚运动X.png" group-title="⚽️体育频道",时尚运动X
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv014
-#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://live.fanmingming.com/tv/靖天育乐台.png" group-title="⚽️体育频道",靖天育乐台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv062
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.com/tv/博斯魅力.png" group-title="⚽️体育频道",博斯魅力
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn04
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="⚽️体育频道",博斯高球1
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn05
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.com/tv/博斯高球2.png" group-title="⚽️体育频道",博斯高球2
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn06
-#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.com/tv/博斯运动1.png" group-title="⚽️体育频道",博斯运动1
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn07
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.com/tv/博斯运动2.png" group-title="⚽️体育频道",博斯运动2
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn08
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="⚽️体育频道",博斯网球
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn09
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.com/tv/博斯无限.png" group-title="⚽️体育频道",博斯无限
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn10
-#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.com/tv/博斯无限2.png" group-title="⚽️体育频道",博斯无限2
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn13
-#EXTINF:-1 tvg-name="TRACE SPORTS STARS" tvg-logo="https://live.fanmingming.com/tv/TRACE SPORTS STARS.png" group-title="⚽️体育频道",TRACE SPORTS STARS
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv077
-#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://live.fanmingming.com/tv/視納華仁紀實頻道.png" group-title="🎊综艺频道",視納華仁紀實頻道
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv013
-#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="🎊综艺频道",中视菁采
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv064
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="🎊综艺频道",八大精彩台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv034
-#EXTINF:-1 tvg-name="八大综艺台" tvg-logo="https://live.fanmingming.com/tv/八大综艺台.png" group-title="🎊综艺频道",八大综艺台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv039
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png" group-title="🎊综艺频道",TVBS精采台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv067
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="🎊综艺频道",TVBS欢乐台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv068
-#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐台.png" group-title="🎊综艺频道",靖天欢乐台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv054
-#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://live.fanmingming.com/tv/靖天综合台.png" group-title="🎊综艺频道",靖天综合台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv046
-#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://live.fanmingming.com/tv/靖天资讯台.png" group-title="🎊综艺频道",靖天资讯台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv065
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通台.png" group-title="🎊综艺频道",靖天卡通台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv044
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="🎊综艺频道",靖天日本台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv047
-#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通台.png" group-title="🎊综艺频道",靖洋卡通台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv057
-#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://live.fanmingming.com/tv/靖天国际台.png" group-title="🎊综艺频道",靖天国际台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv063
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="🎊综艺频道",靖天映画
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv055
-#EXTINF:-1 tvg-name="爱尔达娱乐" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐.png" group-title="🎊综艺频道",爱尔达娱乐
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv070
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="🎊综艺频道",龙华卡通
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn01
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="🎊综艺频道",龙华日韩
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn11
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="🎊综艺频道",龙华偶像
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn12
-#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://live.fanmingming.com/tv/民视综艺.png" group-title="🎊综艺频道",民视综艺
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv004
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="🎊综艺频道",民视第一台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv003
-#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://live.fanmingming.com/tv/民视旅游.png" group-title="🎊综艺频道",民视旅游
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv07
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台.png" group-title="🎊综艺频道",亚洲旅游台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn17
-#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://live.fanmingming.com/tv/客家电视台.png" group-title="🎊综艺频道",客家电视台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv043
-#EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://live.fanmingming.com/tv/爱放动漫.png" group-title="🎊综艺频道",爱放动漫
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv15
-#EXTINF:-1 tvg-name="古典音乐台" tvg-logo="https://live.fanmingming.com/tv/古典音乐台.png" group-title="🎊综艺频道",古典音乐台
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv059
-#EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅秀.png" group-title="🎊综艺频道",猪哥亮歌厅秀
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv006
-#EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://live.fanmingming.com/tv/Smart知识台.png" group-title="🏜其他频道",Smart知识台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn19
-#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://live.fanmingming.com/tv/达文西频道.png" group-title="🏜其他频道",达文西频道
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv018
-#EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://live.fanmingming.com/tv/阿里郎.png" group-title="🏜其他频道",阿里郎
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv079
-#EXTINF:-1 tvg-name="生活英语台" tvg-logo="https://live.fanmingming.com/tv/生活英语台.png" group-title="🏜其他频道",生活英语台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-longturn20
-#EXTINF:-1 tvg-name="国际财经" tvg-logo="https://live.fanmingming.com/tv/国际财经.png" group-title="🏜其他频道",国际财经
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv104
-#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://live.fanmingming.com/tv/美国之音.png" group-title="🏜其他频道",美国之音
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv03
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://live.fanmingming.com/tv/好消息.png" group-title="🏜其他频道",好消息
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv16
-#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://live.fanmingming.com/tv/好消息2台.png" group-title="🏜其他频道",好消息2台
-http://v4.880824.xyz:5678/mt-litv.php?id=litv-ftv17
-#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://live.fanmingming.com/tv/非凡商业.png" group-title="🏜其他频道",非凡商业
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv048
-#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://live.fanmingming.com/tv/国会频道1.png" group-title="🏜其他频道",国会频道1
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv084
-#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://live.fanmingming.com/tv/国会频道2.png" group-title="🏜其他频道",国会频道2
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv085
-#EXTINF:-1 tvg-name="TRACE URBAN" tvg-logo="https://live.fanmingming.com/tv/TRACE URBAN.png" group-title="🏜其他频道",TRACE URBAN
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv082
-#EXTINF:-1 tvg-name="MEZZO LIVE" tvg-logo="https://live.fanmingming.com/tv/MEZZO LIVE.png" group-title="🏜其他频道",MEZZO LIVE
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv083
-#EXTINF:-1 tvg-name="GLOBETROTTER" tvg-logo="https://live.fanmingming.com/tv/GLOBETROTTER.png" group-title="🏜其他频道",GLOBETROTTER
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv016
-#EXTINF:-1 tvg-name="GinxTV" tvg-logo="https://live.fanmingming.com/tv/GinxTV.png" group-title="🏜其他频道",GinxTV
-http://v4.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv053
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1 综合
