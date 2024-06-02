@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #⏰更新时间2024/06/01
 
-#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS 新聞台.png" group-title="🖥4GTV新聞",TVBS 新聞台
+#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="🖥4GTV新聞",TVBS 新聞台
 http://op.880824.xyz:5000/litv/4gtv-4gtv072
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="🖥4GTV新聞",中天新聞台
 http://op.880824.xyz:5000/litv/4gtv-4gtv009
@@ -35,13 +35,13 @@ http://op.880824.xyz:5000/litv/4gtv-4gtv056
 http://op.880824.xyz:5000/litv/4gtv-4gtv153
 #EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="🖥4GTV新聞",非凡商業台
 http://op.880824.xyz:5000/litv/4gtv-4gtv048
-#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC Asia 財經台.png" group-title="🖥4GTV新聞",CNBC Asia 財經台
+#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="🖥4GTV新聞",CNBC Asia 財經台
 http://op.880824.xyz:5000/4gtv/235
-#EXTINF:-1 tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA 美國之音.png" group-title="🖥4GTV新聞",VOA 美國之音
+#EXTINF:-1 tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="🖥4GTV新聞",VOA 美國之音
 http://op.880824.xyz:5000/litv/litv-ftv03
 #EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW德國之聲.png" group-title="🖥4GTV新聞",DW德國之聲
 http://op.880824.xyz:5000/4gtv/226
-#EXTINF:-1 tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN 全球財經台.png" group-title="🖥4GTV新聞",SBN 全球財經台
+#EXTINF:-1 tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="🖥4GTV新聞",SBN 全球財經台
 http://op.880824.xyz:5000/4gtv/224
 #EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="🖥4GTV新聞",半島國際新聞台
 http://op.880824.xyz:5000/litv/litv-ftv10
@@ -71,9 +71,9 @@ http://op.880824.xyz:5000/litv/4gtv-4gtv047
 http://op.880824.xyz:5000/4gtv/169
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="🖥4GTV新聞",台視
 http://op.880824.xyz:5000/litv/4gtv-4gtv066
-#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang TV.png" group-title="🖥4GTV新聞",Arirang TV
+#EXTINF:-1 tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🖥4GTV新聞",Arirang TV
 http://op.880824.xyz:5000/litv/4gtv-4gtv079
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/Bloomberg TV.png" group-title="🖥4GTV新聞",Bloomberg TV
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="🖥4GTV新聞",Bloomberg TV
 http://op.880824.xyz:5000/4gtv/283
 #EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="🎞4GTV影視",民視影劇台
 http://op.880824.xyz:5000/litv/litv-ftv09
