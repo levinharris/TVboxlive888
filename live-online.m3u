@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #⏰更新时间2024/06/01
+#https://mirror.ghproxy.com/https://raw.githubusercontent.com/880824/TV/main/live-online.m3u
 
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🧱LiTV新闻",TVBS新闻台
 http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv072
