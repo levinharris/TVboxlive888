@@ -4,13 +4,21 @@ https://raw.githubusercontent.com/880824/TV/main/live-local.m3u
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/880824/TV/main/live-local.m3u
 
-Openwrt 上使用 Docker Pixman 4GTV 本地播放地址：
+Openwrt 上使用 Docker Pixman 4GTV 
+
+本地播放地址：
 
 http://192.168.31.2:5000/4gtv.m3u
 
 http://192.168.31.2:5000/ysp.m3u
 
-Pixman Docker 地址：https://pixman.io/topics/17
+在线播放地址：
+
+http://***.880824.xyz:5000/4gtv.m3u
+
+http://***.880824.xyz:5000/ysp.m3u
+
+Pixman Docker 说明地址：https://pixman.io/topics/17
 
 例如youtube列表：https://www.youtube.com/playlist?list=PLbVAiNpblsKGf65bYnJtiaZpKEsSTyPzQ
 
